@@ -1,13 +1,13 @@
 
 > storybook-testing@1.0.0 build-storybook
-> storybook build --output-dir /var/folders/c3/wflcn5p519zcwx4cj_hpwh040000gn/T/chromatic--7853-cIHk83VsLogS
+> storybook build --output-dir /var/folders/c3/wflcn5p519zcwx4cj_hpwh040000gn/T/chromatic--9681-7gwHGUlaM695
 
 @storybook/cli v8.1.10
 
-info => Cleaning outputDir: ../../../../../var/folders/c3/wflcn5p519zcwx4cj_hpwh040000gn/T/chromatic--7853-cIHk83VsLogS
+info => Cleaning outputDir: ../../../../../var/folders/c3/wflcn5p519zcwx4cj_hpwh040000gn/T/chromatic--9681-7gwHGUlaM695
 info => Loading presets
 info => Building manager..
-info => Manager built (168 ms)
+info => Manager built (169 ms)
 info => Building preview..
 info Addon-docs: using MDX3
 info => Using implicit CSS loaders
@@ -22,9 +22,9 @@ WARN   633.a8600f71.iframe.bundle.js (801 KiB)
 WARN entrypoint size limit: The following entrypoint(s) combined asset size exceeds the recommended limit (244 KiB). This can impact web performance.
 WARN Entrypoints:
 WARN   main (814 KiB)
-WARN       runtime~main.7e0bdea9.iframe.bundle.js
+WARN       runtime~main.1e8e2e88.iframe.bundle.js
 WARN       633.a8600f71.iframe.bundle.js
 WARN       main.4fe23fc9.iframe.bundle.js
 WARN 
-info => Preview built (7.53 s)
-info => Output directory: /var/folders/c3/wflcn5p519zcwx4cj_hpwh040000gn/T/chromatic--7853-cIHk83VsLogS
+info => Preview built (8.23 s)
+info => Output directory: /var/folders/c3/wflcn5p519zcwx4cj_hpwh040000gn/T/chromatic--9681-7gwHGUlaM695
