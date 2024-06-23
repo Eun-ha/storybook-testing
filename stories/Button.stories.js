@@ -24,6 +24,7 @@ export const Primary = {
   args: {
     primary: true,
     label: 'Button',
+    backgroundColor: "#6b1717"
   },
 };
 
